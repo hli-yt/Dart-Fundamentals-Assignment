@@ -13,4 +13,5 @@ This project contains two Dart applications demonstrating fundamental programmin
 - Exception handling for division by zero
 - Calculation history tracking
 
--** Author: Helina Tesfaye**
+-## Author: Helina Tesfaye
+
