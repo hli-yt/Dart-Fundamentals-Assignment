@@ -16,12 +16,15 @@ and object-oriented design.
 •	Successfully implemented all core requirements including sum, average, min, max, and counting functions
 
 •	Created robust edge case handling for empty lists, which taught me the importance of defensive programming
+
 •	The bonus interactive mode was interesting to implement and made the program more user-friendly
+
 •	Tested with various input types (integers, doubles, negative numbers, zeros)
 
 ## Challenges Faced
 •	Initially struggled with handling both integers and doubles in the even/odd classification. I learned to use the
 `is int` type check to ensure I only classify integers as even/odd.
+
 •	Understanding how to properly initialize variables like max and min when the list might be empty required careful thought.
 
 	Key Takeaway
@@ -33,12 +36,16 @@ works for normal cases but fails on empty lists or single-element lists is not t
 ## Task 2: Async Calculator App - Reflections
 ## What Went Well
 •	Clean separation of concerns between synchronous arithmetic methods and asynchronous wrapper methods
+
 •	Effective exception handling that prevents crashes while providing useful error messages
+
 •	The switch statement in computeAsync() made the code readable and maintainable
+
 •	Successfully implemented all bonus extensions, which deepened my understanding
 
 ## Challenges Faced
 •	Understanding how exceptions travel from divide() through computeAsync() to displayResult() required tracing the call stack mentally.
+
 •	Keeping track of which functions needed the async keyword and which returned Futures took some practice.
 
 ## Connecting the Two Tasks
@@ -53,17 +60,26 @@ Interestingly, both tasks reinforced similar fundamental concepts despite their 
 
  ## Key Takeaways for Future Projects
 •	Considering empty lists, invalid inputs, and error conditions at the beginning leads to more robust code.
+
 •	 Keeping arithmetic logic separate from async wrappers (Task 2) made the code more maintainable and testable.
+
 •	 The parallel execution demo showed why async programming is crucial for responsive applications.
+
 •	 Writing explanations for the conceptual questions forced me to articulate my understanding, revealing gaps in my knowledge.
+
 •	Creating multiple test cases in Task 1 helped me catch bugs early and verify my implementation.
 
  ## Skills Gained
 •	Dart syntax and core libraries
+
 •	Object-oriented programming in Dart
+
 •	Asynchronous programming with Futures, async/await
+
 •	Exception handling and custom exceptions
+
 •	List manipulation and analysis
+
 •	Defensive programming and edge case handling
 
 ## Final Thoughts
