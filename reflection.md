@@ -14,6 +14,7 @@ and object-oriented design.
 ## Task 1: Number Analysis App - Reflections
 ## What Went Well
 •	Successfully implemented all core requirements including sum, average, min, max, and counting functions
+
 •	Created robust edge case handling for empty lists, which taught me the importance of defensive programming
 •	The bonus interactive mode was interesting to implement and made the program more user-friendly
 •	Tested with various input types (integers, doubles, negative numbers, zeros)
