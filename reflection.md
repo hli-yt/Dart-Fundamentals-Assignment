@@ -27,7 +27,7 @@ and object-oriented design.
 
 •	Understanding how to properly initialize variables like max and min when the list might be empty required careful thought.
 
-	Key Takeaway
+## Key Takeaway
 The most important lesson from Task 1 was the importance of considering edge cases before writing code. A program that
 works for normal cases but fails on empty lists or single-element lists is not truly complete.
 
